@@ -17,6 +17,13 @@
  * Author: Nicolas Burrus <nicolas@burrus.name>, (C) 2010, 2011
  */
 
+//
+// Modified by leezhm@126.com on 26th July, 2012
+//
+#pragma warning (disable : 4305)
+//
+
+
 #include "calibration_common.h"
 
 #include <ntk/ntk.h>

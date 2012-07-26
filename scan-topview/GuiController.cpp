@@ -17,6 +17,13 @@
  * Author: Nicolas Burrus <nicolas.burrus@uc3m.es>, (C) 2010
  */
 
+//
+// Modified by leezhm@126.com on 26th July, 2012
+//
+#pragma warning (disable : 4048)
+//
+
+
 #include "GuiController.h"
 #include "ui_View3dWindow.h"
 #include "ui_RawImagesWindow.h"
